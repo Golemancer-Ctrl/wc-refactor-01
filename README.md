@@ -16,7 +16,7 @@ To get the development environment in order, simply clone (or duplicate through 
 
 ## Usage
 
-To use the Horiseon website, simply go to [insert link].
+To use the Horiseon website, simply go to https://golemancer-ctrl.github.io/wc-refactor-01/.
 
 ![Horiseon seeks to provide a pleasant user experience.  The Horiseon webpage features a navigation bar and displays information through two primary articles separated into three sections each.  There is additional information in the footer.](./assets/images/Horiseon.png)
 
