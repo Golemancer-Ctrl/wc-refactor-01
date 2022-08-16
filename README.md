@@ -2,46 +2,32 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+In order to gain a more thorough understanding of the CSS and HTML elements studied this past week, I took it upon myself to refactor an unsatisfactory code repo.  Through reverse-engineering, commenting, and rearrangement I gained a much more thorough understanding of the organizational structure of each language and how the order of each affects the other.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I delved into this assignment with the hope that my skills would be sharpened and that through continuous reworking a much more accessible product would be created.  While I did not originate this website, it has certainly been bettered by my intervention.  I hope someday to work on websites much akin to this one, having experience refactoring existing code is just as (if not more) important than knowing how to code from scratch.
 
-## Table of Contents (Optional)
+The original Horiseon webpage code had many core faults.  While the webpage itself looked decent and mostly functioned, it left significant room for improvement.  The replacement of the classes used to order the divs with semantic HTML both makes the code more organized and pairs down the extra CSS.  After ordering the CSS to match the now-semantic HTML, it has become much easier to navigate and understand.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+In this exercise I learned the significance of using semantic code and the impact that it makes on the neatness and functionality of the code.  I also learned just how big of an impact the quality of the HTML has on the CSS and vice versa.  Navigating both became significantly easier once they were arranged to match each other sequentially and semantically.  Finally, I cannot overstate the importance of comments.  Nothing helps code more than descriptive and well-placed comments.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To get the development environment in order, simply clone (or duplicate through zip files) the git repository.  Once you have the appropriate files downloaded.  Then either navigate to the existing website or publish your own copy through GitHub.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use the Horiseon website, simply go to [insert link].  
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Horiseon seeks to provide a pleasant user experience.  The Horiseon webpage features a navigation bar and displays information through two primary articles separated into three sections each.  There is additional information in the footer.](./assets/images/Horiseon.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+N/A.
 
 ---
