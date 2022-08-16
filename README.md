@@ -16,9 +16,7 @@ To get the development environment in order, simply clone (or duplicate through 
 
 ## Usage
 
-To use the Horiseon website, simply go to [insert link].  
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To use the Horiseon website, simply go to [insert link].
 
 ![Horiseon seeks to provide a pleasant user experience.  The Horiseon webpage features a navigation bar and displays information through two primary articles separated into three sections each.  There is additional information in the footer.](./assets/images/Horiseon.png)
 
